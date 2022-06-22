@@ -13,13 +13,11 @@ order: 4
 
 
 
-💻 Site Reliability Engineer @ [Zenvia](https://github.com/zenvia) | :books: MSc @ [UFRN/Brazil]()
+Site Reliability Engineer @ [Zenvia](https://github.com/zenvia)  MSc @ [UFRN/Brazil]()
 
 I've been working with Cloud, DevOps and Software-defined Networking since 2016. I also have active participation in several research projects on traditional/SDN networks. 
 
  
-<!--[![Sponsor Badge](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#white)](https://stackoverflow.com/users/16993728/emidio-neto)-->
-
 
 ![badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
 ![badge](https://img.shields.io/badge/Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white)
