@@ -13,7 +13,8 @@ order: 4
 
 
 
-Site Reliability Engineer @ [Zenvia](https://github.com/zenvia)  MSc @ [UFRN/Brazil]()
+Site Reliability Engineer @ [Zenvia](https://github.com/zenvia)  
+MSc @ [UFRN/Brazil]()
 
 I've been working with Cloud, DevOps and Software-defined Networking since 2016. I also have active participation in several research projects on traditional/SDN networks. 
 
@@ -23,6 +24,7 @@ I've been working with Cloud, DevOps and Software-defined Networking since 2016.
 ![badge](https://img.shields.io/badge/Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white)
 ![badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![badge](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+
 ![badge](https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=python&logoColor=white)
 ![badge](https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white)
 ![badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
