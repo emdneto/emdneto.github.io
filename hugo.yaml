@@ -18,7 +18,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://emdneto.github.io/"
-title: PaperMod
+title: "emdneto"
 #copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: [PaperMod]
 
@@ -49,18 +49,18 @@ languages:
       tag: tags
       series: series
     menu:
-      main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+      main: []
+        # - name: Archive
+        #   url: archives
+        #   weight: 5
+        # - name: Search
+        #   url: search/
+        #   weight: 10
+        # - name: Tags
+        #   url: tags/
+        #   weight: 10
+        # - name: WiKi
+        #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   # fr:
   #   languageName: ":fr:"
@@ -89,20 +89,25 @@ languages:
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
-      languageAltTitle: French
+      #languageAltTitle: French
       profileMode:
         enabled: true
-        title: PaperMod
+        title: Emídio Neto
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        subtitle: |
+          {Site Reliability, Platform, DevOps} Engineer | OSS Contributor
+
+          Kubestronaut | Cloud Native Hero | CNCF Chapter Lead
         buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+          - name: My Timeline
+            url: activity
+          # - name: About
+          #   url: about
+          # - name: Profile Mode
+          #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
   # fa:
   #   languagedirection: rtl
@@ -131,8 +136,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "emdneto website"
+  author: Emídio Neto
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -178,21 +183,18 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://github.com/emdneto"
+    - name: Linkedin
+      title: Connect with me on Linkedin
+      url: "https://www.linkedin.com/in/emidioneto/"
+    # - name: KoFi
+    #   title: Buy me a Ko-Fi :)
+    #   url: "https://ko-fi.com/adityatelange"
 
-  editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/emdneto/emdneto.github.io-PaperMod/tree/exampleSite/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
