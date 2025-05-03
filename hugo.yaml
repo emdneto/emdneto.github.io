@@ -93,7 +93,7 @@ languages:
       profileMode:
         enabled: true
         title: Emídio Neto
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+        imageUrl: "/gopher.png"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
@@ -154,7 +154,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  #images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: false
@@ -208,11 +208,11 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
