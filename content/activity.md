@@ -46,7 +46,7 @@ cover:
 
 ---
 
-### 🎤 Lessons learned and the future of OpenTelemetry localization
+### 🎤 Lessons learned and the future of OpenTelemetry PT-BR localization
 
 * 📅 Mar 2025
 * 🏷️ Speaker ft. Ezzio Moreira
