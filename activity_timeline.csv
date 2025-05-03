@@ -1,0 +1,63 @@
+Year,Type,Title,Date,Role,Location,Link
+2025,Meetup,3º Meetup Cloud Native RN,Apr 2024,Organizer,"3° Meetup Cloud Native RN @ Sebrae, Natal/RN - Brazil",https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-3o-meetup-cloud-native-rn/
+2025,Talk,Lessons learned and the future of OpenTelemetry PT-BR localization,Mar 2025,"Speaker ft. Ezzio Moreira","Kubernetes Community Days (KCD) @ Rio de Janeiro - Brazil",
+2025,Talk,Testing multiple python versions with Tox,Mar 2025,Speaker,"20º Meetup GruPy RN @ Natal/RN - Brazil",
+2024,Meetup,Kubernetes Community Days Floripa Brazil 2024,Dec 2024,Organizer,"KCD Floripa Brazil 2024 @ Sapiens Parque, Florianópolis/SC - Brazil",https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024/
+2024,Meetup,DevOps Days Natal 2024,Nov 2024,Organizer,"DevOpsDays Natal 2024 @ Sebrae, Natal/RN - Brazil",https://devopsdays.org/events/2024-natal/contact/
+2024,Meetup,2º Meetup Cloud Native RN,Oct 2024,Organizer,"2° Meetup Cloud Native RN @ IFRN, Natal/RN - Brazil",https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-1deg-meetup-online-carreira-e-desafios-na-area-devops-feat-carlos-bezerra/
+2024,Meetup,Meetup Online Cloud Native RN,Oct 2024,Organizer,Carreira e Desafios na Área DevOps - Feat. Carlos Bezerra (online),https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-1deg-meetup-online-carreira-e-desafios-na-area-devops-feat-carlos-bezerra/
+2024,Talk,Cloud Native Observability on Kubernetes,Oct 2024,"Speaker ft. Edson Célio","Tutorial on XIV ENCOM @ IFRN, Natal/RN - Brazil",
+2024,Committee,TPC Member @ XIV ENCOM,Oct 2024,TPC Member,"XIV ENCOM @ IFRN, Natal/RN - Brazil",https://encom.ifrn.edu.br/organizacao/
+2024,Talk,How to start contributing with CNCF Projects,Sept 2024,Speaker,"Go! RN, Natal/RN - Brazil",
+2024,Talk,Kubernetes Certifications: The path to Kubestronaut,Jul 2024,Speaker,4º Meetup - Cloud Native SC (online),https://www.linkedin.com/posts/cncfsc_kubernetes-k8s-kubestronaut-activity-7219421316708261888-kMT1
+2024,Talk,Observability: opentelemetry-python,Jul 2024,Speaker,"18º Meetup GruPy RN @ Sebrae, Natal/RN - Brazil",https://www.instagram.com/p/C8M79nEu-BI/?igsh=b25jaG1ubmZkdDV5
+2024,Meetup,KuberTENes Birthday Bash RN,Jun 2024,Organizer,"KuberTENes Birthday Bash RN @ Natal/RN - Brazil",https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-kubertenes-birthday-bash-rn/
+2024,Talk,Introduction to Cloud Native and Chapter Presentation,May 2024,Speaker,"1º Meetup Cloud Native RN @ Sebrae, Natal/RN - Brazil",https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-1o-meetup-cloud-native-rn/
+2024,Talk,Simplifying Tracing with OpenTelemetry,Mar 2024,Speaker,"1º Meetup DevOps RN @ Sebrae, Natal/RN - Brazil",https://www.instagram.com/p/C4-xIp6sVcY/?igsh=Mjl3YnF4bXc0aGV3
+2023,Paper,Securing Software-Defined Networks Through Adaptive Moving Target Defense Capabilities,July 2023,Author,Journal of Network and Systems Management,https://www.researchgate.net/publication/372162005_Securing_Software-Defined_Networks_Through_Adaptive_Moving_Target_Defense_Capabilities
+2023,Paper,An Adaptive Moving Target Defense Approach for Software-Defined Networking Protection,May 2023,Author,"IEEE NOMS @ Miami, FL - EUA",https://www.researchgate.net/publication/372162005_Secuhttps://ieeexplore.ieee.org/document/10154278
+2022,Research,Taxonomy for the Classification of Malware Analysis Detection and Mitigation Techniques in SDN,Dec 2022,Research Project Coordinator,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2022,Research,Network Slicing as a Service on Low-Cost Hybrid Infrastructures,Dec 2022,Research Project Coordinator,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2022,Research,Continuous Orchestration of Multiple SDN Controllers in Federated Multi-Domain Environments,Dec 2022,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2022,Paper,Abordagem Adaptativa para Proteção de Redes SDN Utilizando Moving Target Defense,May 2022,Author,"SBRC 2022 @ UFC, Fortaleza/CE - Brazil",https://repositorio.ufrn.br/handle/123456789/47518?locale=pt_BR
+2022,Thesis,Master's Thesis: dh-aes-p4: criptografia oportunística entre dispositivos de rede programáveis,May 2022,Author,"DIMAp @ UFRN, Natal/RN - Brazil",https://repositorio.ufrn.br/handle/123456789/47518?locale=pt_BR
+2021,Research,Decision-Making for Handover Oriented to QoE in 5G Networks Using Machine Learning Strategies,Dec 2021,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2021,Research,Characterization of Resilient Communication Mechanisms for SDN-enabled Vehicular Ad-Hoc Networks (VANETs),Dec 2021,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2021,Research,Detection and Mitigation of DDoS Attacks in SDN Infrastructures Through Moving Target Defense Techniques,Dec 2021,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2021,Paper,dh-aes-p4: On-premise encryption and in-band key-exchange in P4 fully programmable data planes,Nov 2021,Author,IEEE NFV-SDN,https://ieeexplore.ieee.org/document/9665012
+2021,Paper,A Survey on Long-Range Wide-Area Network (LoRaWAN) Technology Optimizations,May 2021,Author,IEEE Access,https://ieeexplore.ieee.org/document/9427535
+2021,Paper,Seamless MANO of Multi-vendor SDN Controllers Across Federated Multi-Domains,Feb 2021,Author,Computer Networks (Elsevier),https://www.sciencedirect.com/science/article/abs/pii/S1389128620313311
+2021,Paper,A wifi-slicing MANO solution to enable elastic wifi-sharing communication service end-to-end provision,Apr 2021,Author,ACM/SIGAPP Symposium on Applied Computing,https://dl.acm.org/doi/10.1145/3412841.3441986
+2020,Research,End-to-End Resource Orchestration in Heterogeneous Softwarized Networks,Dec 2020,Research Project Coordinator,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2020,Research,Intelligent Elasticity of Computational Resources Applied to Fog Slicing,Dec 2020,Research Project Coordinator,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2020,Research,Mitigation of Slow Attacks in Software Defined Networks,Dec 2020,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2020,Paper,MTD for Protection of SDN Networks,Dec 2020,Author and Speaker,"X ENCOM (National Conference on Communications, Networks and Information Security) @ Natal/RN - Brazil",https://www.researchgate.net/publication/346718866_MTD_para_Protecao_de_Redes_SDN
+2020,Paper,Evolving Fast Innovation in Next-Generation Networking Through Flexible and Customized Softwarization and Slicing Capabilities,Nov 2020,Author,"IEEE NFV-SDN 2020 @ Madrid, Spain",https://ieeexplore.ieee.org/document/9289856
+2020,Paper,Enhancing Orchestration and Infrastructure Programmability in SDN With NOTORIETY,23 Oct 2020,Author,IEEE Access,https://ieeexplore.ieee.org/document/9237921
+2020,Patent,Virtual Network Assessment Toolkit (VNAT),01 Sep 2020,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2020,Patent,SHORT (SDN Path Provisioning Benchmarking Tool),01 Sep 2020,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2020,Paper,A Taxonomy of DDoS Attack Mitigation Approaches Featured by SDN Technologies in IoT Scenarios,29 May 2020,Author,Sensors (MDPI),https://www.mdpi.com/1424-8220/20/11/3078
+2020,Paper,Benchmarking of Mainstream SDN Controllers Over Open Off-the-Shelf Software-Switches,Feb 2020,Author,Internet Technology Letters,https://onlinelibrary.wiley.com/doi/10.1002/itl2.152
+2020,Committee,Undergraduate Thesis Committee: "NOA - A Middleware for Maximizing the Orchestration Capabilities of SDN Controllers" by Kevin Barros Costa,Jan 2020,TCC Committee Member,"IFRN, Natal/RN - Brazil",
+2020,Committee,Revisor de Projetos de Extensão Instituto Federal de Educação Ciência e Tecnologia do Sul de Minas,202,Conference Paper Reviewer,Instituto Federal de Educação Ciência e Tecnologia do Sul de Minas,
+2019,Committee,Undergraduate Thesis Committee: "A Taxonomy to Describe and Characterize DDoS Attack Mitigation Strategies Using SDN Technologies in IoT" by Esau Teodoro da Silva,Dec 2019,TCC Committee Member,"IFRN, Natal/RN - Brazil",
+2019,Committee,Undergraduate Thesis Committee: "Benchmarking of SDN Controllers on Low-Cost Software-Switch Infrastructure" by João Batista Gonçalves da Silva,Nov 2019,TCC Committee Member,"IFRN, Natal/RN - Brazil",
+2019,Patent,Multimedia Trace API,19 Nov 2019,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2019,Patent,DBR3S Multimedia Control Interface (MCI),19 Nov 2019,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2019,Committee,XXIV Seminário de Iniciação Científica e Tecnológica da UTFPR,Nov 2019,Conference Paper Reviewer,"XXIV Seminário de Iniciação Científica e Tecnológica @ UTFPR, Curitiba/PR - Brazil",
+2019,Talk,Softwarization of Networks with SDN Technologies: Perspectives and Opportunities,Oct 2019,Speaker,"IX Workshop on Computer Networks @ IFRN, Natal/RN - Brazil",
+2019,Patent,Modular Interactive Management System for SDN Infrastructure,06 Aug 2019,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2019,Patent,UMBU - Unified Multimedia-Based network evalUation platform.,15 Aug 2019,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2019,Patent,Network Orchestration Agent,22 Aug 2019,Software Registration - Co-Inventor,INPI (National Institute of Industrial Property) Brazil,
+2019,Paper,A Solution to Enhance Adaptation and Management of SDN-based Infrastructure Features,May 2019,Author,"SBRC 2019 @ Gramado/RS - Brazil",https://sol.sbc.org.br/index.php/wgrs/article/view/7685
+2019,Thesis,Bacherlor's Thesis: ATOM: An Architecture for Ubiquitous Management of SDN Controllers,Apr 2019,Author,"DIATINF @ IFRN, Natal/RN - Brazil",
+2018,Research,Ubiquitous SDN Infrastructure Orchestration,Dec 2018,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2018,Research,Platform for Experimentation and Evaluation of QoE in Multimedia streaming,Dec 2018,Research Project Contributor,"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2018,Paper,NOA: A Middleware to Maximize the OpenDaylight SDN Controller Orchestration Perspectives,Jun 2018,Author,"IEEE LANMAN @ Washington D.C., EUA",https://ieeexplore.ieee.org/document/8475051
+2018,Paper,UMBU: A Framework for Experimentation and Evaluation of QoE in Multimedia streaming,May 2018,Author,"SBRC 2018 @ Campos do Jordão/SP - Brazil",https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/14167
+2018,Paper,NOA: A Middleware for Maximizing the Orchestration Perspectives of the OpenDaylight SDN Controller,May 2018,Author and Speaker,"SBRC 2018 @ Campos do Jordão/SP - Brazil",https://sol.sbc.org.br/index.php/wpeif/article/view/2318
+2017,Research,Interactive Management System for SDN Network Infrastructures,Dec 2017,Research Project Contributor (DevOps Engineer),"LaTARC Research Lab @ IFRN, Natal/RN - Brazil",
+2017,Talk,Innovating the Development of Computer Networks Technologies with SDN,Oct 2017,Speaker,"VII Workshop on Computer Networks @ IFRN, Natal/RN - Brazil",
+2017,Paper,MISSIn: Interactive Orchestration of SDN Infrastructures,May 2017,Author and Speaker,"SBRC 2017 @ UFBA, Belém/PA - Brazil",https://sbrc2016.ufba.br/downloads/anais/Workshops/proceedingsWPEIF2016.pdf
+2016,Talk,Exploring Software Defined Networks: Concepts and Applications,Oct 2016,Speaker,"VI Workshop on Computer Networks @ IFRN, Natal/RN - Brazil",
+2016,Paper,Towards a Modular Interactive Management Approach for SDN Infrastructure Orchestration,07-10 Nov 2016,Author,"IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Palo Alto, Califórnia.",https://ieeexplore.ieee.org/document/7919467

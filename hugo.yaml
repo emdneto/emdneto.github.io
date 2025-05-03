@@ -184,9 +184,12 @@ params:
     - name: github
       title: View Source on Github
       url: "https://github.com/emdneto"
-    - name: Linkedin
+    - name: linkedin
       title: Connect with me on Linkedin
       url: "https://www.linkedin.com/in/emidioneto/"
+    - name: stackoverflow
+      title: Connect with me on StackOverflow
+      url: "https://stackoverflow.com/users/16993728/emdneto"
     # - name: KoFi
     #   title: Buy me a Ko-Fi :)
     #   url: "https://ko-fi.com/adityatelange"

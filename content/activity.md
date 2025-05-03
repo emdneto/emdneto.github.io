@@ -1,10 +1,5 @@
 ---
 title: "My activity timeline"
-#date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-#tags: ["first"]
-#author: "Me"
 showToc: false
 TocOpen: false
 draft: false
@@ -12,26 +7,21 @@ hidemeta: false
 comments: false
 description: "Talks, projects, events, papers, and contributions"
 disableShare: true
-disableHLJS: false
-hideSummary: true
-searchHidden: true
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: false
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
-# editPost:
-#     URL: "https://github.com/<path_to_repo>/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 ---
+
+## Overall Statistics
+
+| Category | Count |
+|----------|-------|
+| 📖 Paper | 18 |
+| 🔬 Research Projects | 12 |
+| 🎤 Speaker | 14 |
+| 🛡️ Patent | 7 |
+| 🗂️ Organizer | 6 |
+| 📋 Thesis | 2 |
+| **Total** | **62** |
+
+
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 ## 2025
@@ -49,7 +39,7 @@ cover:
 ### 🎤 Lessons learned and the future of OpenTelemetry PT-BR localization
 
 * 📅 Mar 2025
-* 🏷️ Speaker ft. Ezzio Moreira
+* 🏷️ Speaker
 * 📍 Kubernetes Community Days (KCD) @ Rio de Janeiro - Brazil
 
 [Slides](../files/talk-kcdbr2025.pptx.pdf) 🇧🇷 (PT-BR Only)
@@ -111,17 +101,17 @@ cover:
 ### 🎤 Cloud Native Observability on Kubernetes
 
 * 📅 Oct 2024
-* 🏷️ Speaker ft. Edson Célio
+* 🏷️ Speaker
 * 📍 Tutorial on XIV ENCOM @ IFRN, Natal/RN - Brazil
 
 [Link](../files/o11y-encom.pdf) 🇧🇷 (PT-BR Only)
 
 ---
 
-### 🗂️ TPC Member @ XIV ENCOM
+### 🗂️ TPC Member at XIV ENCOM
 
 * 📅 Oct 2024
-* 🏷️ TPC Member
+* 🏷️ Technical Program Commitee Member
 * 📍 XIV ENCOM @ IFRN, Natal/RN - Brazil
 
 [Link](https://encom.ifrn.edu.br/organizacao/)
