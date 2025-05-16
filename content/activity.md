@@ -11,20 +11,40 @@ disableShare: true
 
 ## Overall Statistics
 
-| Category | Count |
+|  |  |
 |----------|-------|
-| 📖 Paper | 18 |
+| 📖 Papers | 18 |
 | 🔬 Research Projects | 12 |
 | 🎤 Speaker | 14 |
+| 📗 Paper Reviewer | 10 |
 | 🛡️ Patent | 7 |
 | 🗂️ Organizer | 6 |
+| 🏆 Awards | 3 |
 | 📋 Thesis | 2 |
-| **Total** | **62** |
-
 
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 ## 2025
+
+### 📗 IEEE International Wireless Communications and Mobile Computing Conference
+
+* 📅 May 2025
+* 🏷️ Paper Reviewer
+* 📍 Papers of IWCMC e-Health Symposium
+
+[Link](https://ieeexplore.ieee.org/xpl/conhome/9823957/proceeding)
+
+---
+
+### 📗 Journal Of Cluster Computing Springer Nature
+
+* 📅 May 2025
+* 🏷️ Paper Reviewer
+* 📍 Springer Journal Of Cluster Computing
+
+[Link](https://link.springer.com/journal/10586)
+
+---
 
 ### 🗂️ 3º Meetup  Cloud Native RN
 
@@ -56,6 +76,16 @@ disableShare: true
 
 ---
 
+### 🏆 Cloud Native Hero Winner
+
+* 📅 Jan 2025
+* 🏷️ Award
+* 📍 Cloud Native Hero by Cloud Native Computing Foundation
+
+[Link](https://www.cncf.io/blog/2025/01/22/meet-the-winners-of-our-first-cloud-native-heroes-challenge/)
+
+---
+
 ## 2024
 
 ### 🗂️ Kubernetes Community Days Floripa Brazil 2024
@@ -65,6 +95,16 @@ disableShare: true
 * 📍 KCD Floripa Brazil 2024 @ Sapiens Parque, Florianópolis/SC - Brazil
 
 [Link](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-floripa-brasil-2024/)
+
+---
+
+### 🏆 OpenTelemetry Community Star
+
+* 📅 Nov 2024
+* 🏷️ Award
+* 📍 OpenTelemetry
+
+[Link](https://opentelemetry.io/blog/2024/community-awards-winners/)
 
 ---
 
@@ -148,6 +188,16 @@ disableShare: true
 
 ---
 
+### 📗 Congresso da Sociedade Brasileira de Computação
+
+* 📅 Jul 2024
+* 🏷️ Paper Reviewer
+* 📍 Papers of CSBC 2024 @ Brasília-DF
+
+[Link](https://csbc.sbc.org.br/2024/)
+
+---
+
 ### 🎤 KuberTENes Birthday Bash RN
 
 * 📅 Jun 2024
@@ -179,6 +229,26 @@ disableShare: true
 ---
 
 ## 2023
+
+### 📗 Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais
+
+* 📅 Sep 2023
+* 🏷️ Paper Reviewer
+* 📍 Papers of SBSEG 2023 @ Rio de Janeiro/RJ - Brazil
+
+[Link](https://sbseg2023.ufjf.br/)
+
+---
+
+### 📗 Congresso da Sociedade Brasileira de Computação
+
+* 📅 Aug 2023
+* 🏷️ Paper Reviewer
+* 📍 Papers of CSBC 2023
+
+[Link](https://csbc.sbc.org.br/2023/)
+
+---
 
 ### 📖 Securing Software-Defined Networks Through Adaptive Moving Target Defense Capabilities
 
@@ -223,6 +293,36 @@ disableShare: true
 * 📅 Dec 2022
 * 🏷️ Research Project Contributor
 * 📍 LaTARC Research Lab @ IFRN, Natal/RN - Brazil
+
+---
+
+### 📗 IEEE International Conference on Cloud Networking
+
+* 📅 Nov 2022
+* 🏷️ Paper Reviewer
+* 📍 Papers of IEEE Cloudnet 2022
+
+[Link](https://cloudnet2022.ieee-cloudnet.org/)
+
+---
+
+### 📗 IEEE International Wireless Communications and Mobile Computing Conference
+
+* 📅 Jun 2022
+* 🏷️ Paper Reviewer
+* 📍 Papers of IWCMC e-Health Symposium
+
+[Link](https://ieeexplore.ieee.org/xpl/conhome/9823957/proceeding)
+
+---
+
+### 📗 Journal Internet Technology Letters
+
+* 📅 May 2022
+* 🏷️ Paper Reviewer
+* 📍 Papers of Internet Technology Letters
+
+[Link](https://onlinelibrary.wiley.com/journal/24761508)
 
 ---
 
@@ -410,10 +510,10 @@ disableShare: true
 
 ---
 
-### 🎤 Revisor de Projetos de Extensão Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas
+### 📗 Reviewer de Projetos de Extensão Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas
 
-* 📅 202
-* 🏷️ Conference Paper Reviewer
+* 📅 Jan 2020
+* 🏷️ Paper Reviewer
 * 📍 Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas
 
 ---
@@ -452,10 +552,10 @@ disableShare: true
 
 ---
 
-### 🎤 XXIV Seminário de Iniciação Científica e Tecnológica da UTFPR
+### 📗 XXIV Seminário de Iniciação Científica e Tecnológica da UTFPR
 
 * 📅 Nov 2019
-* 🏷️ Conference Paper Reviewer
+* 🏷️ Paper Reviewer
 * 📍 XXIV Seminário de Iniciação Científica e Tecnológica @ UTFPR, Curitiba/PR - Brazil
 
 ---
