@@ -13,9 +13,9 @@ disableShare: true
 
 |  |  |
 |----------|-------|
-| 📖 Papers | 18 |
+| 📖 Papers | 19 |
+| 🎤 Speaker | 15 |
 | 🔬 Research Projects | 12 |
-| 🎤 Speaker | 14 |
 | 📗 Paper Reviewer | 10 |
 | 🛡️ Patent | 7 |
 | 🗂️ Organizer | 6 |
@@ -25,6 +25,26 @@ disableShare: true
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 ## 2025
+
+### 🎤 OpenTelemetry Python and OpenTelemetry-By-Example
+
+* 📅 May 2025
+* 🏷️ Speaker
+* 📍 [Dose de Telemetria](https://www.youtube.com/@DoseDeTelemetria)
+
+[Live](https://www.youtube.com/watch?v=xHHXndoXpIU&ab_channel=DosedeTelemetria) 🇧🇷 (PT-BR Only)
+
+---
+
+### 📖 Mininet-GUI: A Visual and Interactive Approach for Experimentation in SDN Networks
+
+* 📅 May 2025
+* 🏷️ Conference Paper - Author
+* 📍 Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025), Natal/RN, Brazil
+
+[Read Paper](https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/35865) 🇧🇷 (PT-BR Only)
+
+---
 
 ### 📗 IEEE International Wireless Communications and Mobile Computing Conference
 
