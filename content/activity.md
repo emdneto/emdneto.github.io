@@ -44,7 +44,7 @@ disableShare: true
 * 🏷️ Paper Reviewer
 * 📍 Papers of the Journal of Big Data
 
-[Link]([https://ieeexplore.ieee.org/xpl/conhome/9823957/proceeding](https://journalofbigdata.springeropen.com/))
+[Journal Page]([https://www.sciencedirect.com/science/article/pii/S2214212625001826?dgcid=coauthor](https://journalofbigdata.springeropen.com/))
 
 ---
 
