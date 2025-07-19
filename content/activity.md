@@ -44,7 +44,7 @@ disableShare: true
 * 🏷️ Paper Reviewer
 * 📍 Papers of the Journal of Big Data
 
-[Journal Page]([https://www.sciencedirect.com/science/article/pii/S2214212625001826?dgcid=coauthor](https://journalofbigdata.springeropen.com/))
+[Journal Page](https://journalofbigdata.springeropen.com/)
 
 ---
 
