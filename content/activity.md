@@ -13,18 +13,50 @@ disableShare: true
 
 |  |  |
 |----------|-------|
-| 📖 Papers | 19 |
-| 🎤 Speaker | 15 |
+| 📖 Papers/Journals Publications | 20 |
+| 🎤 Speaker | 16 |
 | 🔬 Research Projects | 12 |
-| 📗 Paper Reviewer | 10 |
+| 📗 Paper Reviewer | 11 |
+| 🗂️ Organizer | 7 |
 | 🛡️ Patent | 7 |
-| 🗂️ Organizer | 6 |
 | 🏆 Awards | 3 |
 | 📋 Thesis | 2 |
 
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 ## 2025
+
+---
+
+### 📖 SDN-based solutions for malware analysis and detection: State-of-the-art, open issues and research challenges
+
+* 📅 July 2025
+* 🏷️ Journal Paper - Co-Author
+* 📍 Journal of Information Security and Applications
+
+[Read Paper](https://www.sciencedirect.com/science/article/pii/S2214212625001826?dgcid=coauthor)
+
+---
+
+### 📗 Journal of Big Data
+
+* 📅 Jun 2025
+* 🏷️ Paper Reviewer
+* 📍 Papers of the Journal of Big Data
+
+[Link]([https://ieeexplore.ieee.org/xpl/conhome/9823957/proceeding](https://journalofbigdata.springeropen.com/))
+
+---
+
+### 🎤 2° Meetup Online - Kubernetes com Baixo Custo: Hetzner, Nuvens Privadas e DIY  - Feat. Lucas Rattz
+
+* 📅 Jun 2025
+* 🏷️ Speaker/Organizer
+* 📍 Cloud Native RN @ Online
+
+[Live](https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-2deg-meetup-online-kubernetes-com-baixo-custo-hetzner-nuvens-privadas-e-diy-feat-lucas-rattz/) 🇧🇷 (PT-BR Only)
+
+---
 
 ### 🎤 OpenTelemetry Python and OpenTelemetry-By-Example
 
@@ -171,14 +203,14 @@ disableShare: true
 ### 🗂️ TPC Member at XIV ENCOM
 
 * 📅 Oct 2024
-* 🏷️ Technical Program Commitee Member
+* 🏷️ Technical Program Committee Member
 * 📍 XIV ENCOM @ IFRN, Natal/RN - Brazil
 
 [Link](https://encom.ifrn.edu.br/organizacao/)
 
 ---
 
-### 🎤 How to start contributing with CNCF Projects
+### 🎤 How to start contributing to CNCF Projects
 
 * 📅 Sept 2024
 * 🏷️ Speaker
