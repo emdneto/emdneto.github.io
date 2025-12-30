@@ -14,9 +14,9 @@ disableShare: true
 |  |  |
 |----------|-------|
 | 📖 Papers/Journals Publications | 20 |
-| 🎤 Speaker | 16 |
+| 🎤 Speaker | 19 |
 | 🔬 Research Projects | 12 |
-| 📗 Paper Reviewer | 11 |
+| 📗 Paper Reviewer | 12 |
 | 🗂️ Organizer | 7 |
 | 🛡️ Patent | 7 |
 | 🏆 Awards | 3 |
@@ -25,6 +25,46 @@ disableShare: true
 [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
 
 ## 2025
+
+---
+
+### 📗 Reviewer Journal Of Cluster Computing Springer Nature
+
+* 📅 Dec 2025
+* 🏷️ Paper Reviewer
+* 📍 Springer Journal Of Cluster Computing
+
+[Link](https://link.springer.com/journal/10586)
+
+---
+
+### 🎤 Fazendo Mágica com Python
+
+* 📅 Dec 2025
+* 🏷️ Speaker
+* 📍 21º Meetup GruPy RN @ Natal/RN - Brazil
+
+[Slides](../files/grupyrn-python-magica.pdf) 🇧🇷 (PT-BR Only)
+
+---
+
+### 🎤 5 Lessons you can learn from OpenTelemetry Python
+
+* 📅 Oct 2025
+* 🏷️ Speaker
+* 📍 Python Brasil (in-person) @ São Paulo/SP, Brazil
+
+[Slides](https://speakerdeck.com/xrmx/5-lessons-you-can-learn-from-opentelemetry-python)
+
+---
+
+### 🎤 CI em projetos  open-source: Testando e entregando 85 libs mensalmente
+
+* 📅 Oct 2025
+* 🏷️ Speaker
+* 📍 DevOpsDays Fortaleza @ In-Person
+
+[Slides](../files/dod-fortaleza.pdf) 🇧🇷 (PT-BR Only)
 
 ---
 
@@ -756,4 +796,4 @@ disableShare: true
 * 🏷️ Conference Paper - Author
 * 📍 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Palo Alto, Califórnia.
 
-[Read Paper](https://ieeexplore.ieee.org/document/7919467) 🇧🇷 (PT-BR Only)
+[Read Paper](https://ieeexplore.ieee.org/document/7919467)
