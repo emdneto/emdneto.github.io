@@ -14,10 +14,10 @@ disableShare: true
 |  |  |
 |----------|-------|
 | 📖 Papers/Journals Publications | 20 |
-| 🎤 Speaker | 19 |
+| 🎤 Speaker | 20 |
 | 🔬 Research Projects | 12 |
 | 📗 Paper Reviewer | 12 |
-| 🗂️ Organizer | 7 |
+| 🗂️ Organizer | 8 |
 | 🛡️ Patent | 7 |
 | 🏆 Awards | 3 |
 | 📋 Thesis | 2 |
@@ -27,6 +27,14 @@ disableShare: true
 ## 2026
 
 ---
+
+### 🎤 4° Meetup cTENcf Birthday Bash Natal RN
+
+* 📅 Jan 2025
+* 🏷️ Speaker/Organizer
+* 📍 Cloud Native RN @ In-person
+
+[Link](https://community.cncf.io/events/details/cncf-cloud-native-rio-grande-do-norte-presents-ctencf-birthday-bash-natal-rn-4o-meetup/) 🇧🇷 (PT-BR Only)
 
 ## 2025
 
