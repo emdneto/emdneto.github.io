@@ -15,8 +15,6 @@ disableShare: true
 |----------|-------|
 | 📖 Papers/Journals Publications | 20 |
 | 🎤 Speaker | 20 |
-| 🔬 Research Projects | 12 |
-| 📗 Paper Reviewer | 12 |
 | 🗂️ Organizer | 8 |
 | 🛡️ Patent | 7 |
 | 🏆 Awards | 3 |
@@ -26,6 +24,24 @@ disableShare: true
 
 ## 2026
 
+---
+### 📗 Reviewer IEEE ISCC 2026
+
+* 📅 March 2026
+* 🏷️ Paper Reviewer
+* 📍 IEEE ISCC 2026
+
+[Link](https://ieee-iscc.computer.org/2026/)
+
+---
+
+### 📗 Reviewer Journal Of Cluster Computing Springer Nature
+
+* 📅 Fev 2026
+* 🏷️ Paper Reviewer
+* 📍 Springer Journal Of Cluster Computing
+
+[Link](https://link.springer.com/journal/10586)
 ---
 
 ### 🎤 4° Meetup cTENcf Birthday Bash Natal RN
@@ -252,7 +268,7 @@ disableShare: true
 
 ---
 
-### 🗂️ TPC Member at XIV ENCOM
+### TPC Member at XIV ENCOM
 
 * 📅 Oct 2024
 * 🏷️ Technical Program Committee Member
@@ -440,7 +456,7 @@ disableShare: true
 
 ---
 
-### 📖 Master's Thesis: dh-aes-p4: criptografia oportunística entre dispositivos de rede programáveis
+### 📋 Master's Thesis: dh-aes-p4: criptografia oportunística entre dispositivos de rede programáveis
 
 * 📅 May 2022
 * 🏷️ Master's Thesis
@@ -542,7 +558,7 @@ disableShare: true
 
 ---
 
-### 📋 MTD for Protection of SDN Networks
+### 📖 MTD for Protection of SDN Networks
 
 * 📅 Dec 2020
 * 🏷️ Conference Paper - Author and Speaker
@@ -552,7 +568,7 @@ disableShare: true
 
 ---
 
-### 📋 Evolving Fast Innovation in Next-Generation Networking Through Flexible and Customized Softwarization and Slicing Capabilities
+### 📖 Evolving Fast Innovation in Next-Generation Networking Through Flexible and Customized Softwarization and Slicing Capabilities
 
 * 📅 Nov 2020
 * 🏷️ Conference Paper - Author
@@ -573,7 +589,7 @@ disableShare: true
 ### 🛡️ Patent: Virtual Network Assessment Toolkit (VNAT)
 
 * 📅 01 Sep 2020
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -581,7 +597,7 @@ disableShare: true
 ### 🛡️ Patent: SHORT (SDN Path Provisioning Benchmarking Tool)
 
 * 📅 01 Sep 2020
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -606,7 +622,7 @@ disableShare: true
 
 ---
 
-### 🎤 Undergraduate Thesis Committee: "NOA - A Middleware for Maximizing the Orchestration Capabilities of SDN Controllers" by Kevin Barros Costa
+### Undergraduate Thesis Committee: "NOA - A Middleware for Maximizing the Orchestration Capabilities of SDN Controllers" by Kevin Barros Costa
 
 * 📅 Jan 2020
 * 🏷️ TCC Committee Member
@@ -624,7 +640,7 @@ disableShare: true
 
 ## 2019
 
-### 🎤 Undergraduate Thesis Committee: "A Taxonomy to Describe and Characterize DDoS Attack Mitigation Strategies Using SDN Technologies in IoT" by Esau Teodoro da Silva
+### Undergraduate Thesis Committee: "A Taxonomy to Describe and Characterize DDoS Attack Mitigation Strategies Using SDN Technologies in IoT" by Esau Teodoro da Silva
 
 * 📅 Dec 2019
 * 🏷️ TCC Committee Member
@@ -632,7 +648,7 @@ disableShare: true
 
 ---
 
-### 🎤 Undergraduate Thesis Committee: "Benchmarking of SDN Controllers on Low-Cost Software-Switch Infrastructure" by João Batista Gonçalves da Silva
+### Undergraduate Thesis Committee: "Benchmarking of SDN Controllers on Low-Cost Software-Switch Infrastructure" by João Batista Gonçalves da Silva
 
 * 📅 Nov 2019
 * 🏷️ TCC Committee Member
@@ -643,7 +659,7 @@ disableShare: true
 ### 🛡️ Patent: Multimedia Trace API
 
 * 📅 19 Nov 2019
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -651,7 +667,7 @@ disableShare: true
 ### 🛡️ Patent: DBR3S Multimedia Control Interface (MCI)
 
 * 📅 19 Nov 2019
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patentn - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -675,7 +691,7 @@ disableShare: true
 ### 🛡️ Patent: Modular Interactive Management System for SDN Infrastructure
 
 * 📅 06 Aug 2019
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -683,7 +699,7 @@ disableShare: true
 ### 🛡️ Patent: UMBU - Unified Multimedia-Based network evalUation platform.
 
 * 📅 15 Aug 2019
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
@@ -691,12 +707,12 @@ disableShare: true
 ### 🛡️ Patent: Network Orchestration Agent
 
 * 📅 22 Aug 2019
-* 🏷️ Software Registration - Co-Inventor
+* 🏷️ Patent - Co-Inventor
 * 📍 INPI (National Institute of Industrial Property), Brazil
 
 ---
 
-### 📋 A Solution to Enhance Adaptation and Management of SDN-based Infrastructure Features
+### 📖 A Solution to Enhance Adaptation and Management of SDN-based Infrastructure Features
 
 * 📅 May 2019
 * 🏷️ Conference Paper - Author
@@ -732,7 +748,7 @@ disableShare: true
 
 ---
 
-### 📋 NOA: A Middleware to Maximize the OpenDaylight SDN Controller Orchestration Perspectives
+### 📖 NOA: A Middleware to Maximize the OpenDaylight SDN Controller Orchestration Perspectives
 
 * 📅 Jun 2018
 * 🏷️ Conference Paper - Author
@@ -742,7 +758,7 @@ disableShare: true
 
 ---
 
-### 📋 UMBU: A Framework for Experimentation and Evaluation of QoE in Multimedia streaming
+### 📖 UMBU: A Framework for Experimentation and Evaluation of QoE in Multimedia streaming
 
 * 📅 May 2018
 * 🏷️ Conference Paper - Author
@@ -752,7 +768,7 @@ disableShare: true
 
 ---
 
-### 📋 NOA: A Middleware for Maximizing the Orchestration Perspectives of the OpenDaylight SDN Controller
+### 📖 NOA: A Middleware for Maximizing the Orchestration Perspectives of the OpenDaylight SDN Controller
 
 ### 🏆 Best Paper Award
 
@@ -782,7 +798,7 @@ disableShare: true
 
 ---
 
-### 📋 MISSIn: Interactive Orchestration of SDN Infrastructures
+### 📖🎤 MISSIn: Interactive Orchestration of SDN Infrastructures
 
 * 📅 May 2017
 * 🏷️ Conference Paper - Author and Speaker
@@ -802,7 +818,7 @@ disableShare: true
 
 ---
 
-### 📋 Towards a Modular Interactive Management Approach for SDN Infrastructure Orchestration
+### 📖 Towards a Modular Interactive Management Approach for SDN Infrastructure Orchestration
 
 * 📅 07-10 Nov 2016
 * 🏷️ Conference Paper - Author
