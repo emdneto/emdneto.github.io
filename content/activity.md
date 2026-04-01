@@ -42,6 +42,7 @@ disableShare: true
 * 📍 Springer Journal Of Cluster Computing
 
 [Link](https://link.springer.com/journal/10586)
+
 ---
 
 ### 🎤 4° Meetup cTENcf Birthday Bash Natal RN
